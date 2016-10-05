@@ -4,6 +4,9 @@ defmodule Maths do
   mathematic calculations
   """
 
+  @doc """
+  Add two numbers together
+  """
   def add(left, right) do
     # Add two numbers together
     left + right
