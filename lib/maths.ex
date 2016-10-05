@@ -6,6 +6,11 @@ defmodule Maths do
 
   @doc """
   Add two numbers together
+
+  Examples
+
+      iex> Maths.add(4, 2)
+      6
   """
   def add(left, right) do
     # Add two numbers together
